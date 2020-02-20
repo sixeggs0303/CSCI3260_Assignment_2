@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\SixEggs\source\repos\csci3260_assignment2\csci3260_assignment2\main.cpp(632,73): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\SixEggs\source\repos\csci3260_assignment2\csci3260_assignment2\main.cpp(658,75): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\SixEggs\source\repos\csci3260_assignment2\csci3260_assignment2\main.cpp(688,73): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\SixEggs\source\repos\csci3260_assignment2\csci3260_assignment2\main.cpp(718,74): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\SixEggs\source\repos\csci3260_assignment2\csci3260_assignment2\main.cpp(748,77): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  csci3260_assignment2.vcxproj -> C:\Users\SixEggs\source\repos\csci3260_assignment2\x64\Debug\csci3260_assignment2.exe
